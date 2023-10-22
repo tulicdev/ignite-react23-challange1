@@ -1,0 +1,23 @@
+.container {
+  height: 200px;
+  background-color: var(--gray-700);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.words {
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+
+.words--blue {
+  color: var(--blue);
+}
+
+.words--purple-dark {
+  color: var(--purple-dark);
+}
+
