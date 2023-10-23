@@ -39,3 +39,7 @@
   justify-content: center;
   gap: 8px;
 }
+
+.container button:hover {
+  background-color: var(--blue);
+}
